@@ -1,5 +1,5 @@
 def new_hash
-  local_hash = Hash.new
+  Hash.new
 end
 
 def my_hash
